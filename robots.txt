@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://grgragul.github.io/vlsi-from-zero/sitemap.xml
